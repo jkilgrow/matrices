@@ -4,13 +4,14 @@
 You are welcome to use any resources available to you in order to solve the problem.
 
 ## Problem Definition
-You are given an API in the Matrices class. Your task is to fill in the implementation of that API.
+You are given an API in the Matrices class. Your task is to fill in the implementation of that API. The goal of the implementation is to multiply two matrices.
 
 ## Requirements
 * Clone or fork the repo
 * Create a branch on the repo
 * Implement your solution
 * Test your implementation with unit tests
+* Show the output of the multiplied matrices
 * Push your code up to your branch
 * Create a pull request
 
