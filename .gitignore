@@ -1,3 +1,12 @@
+# Directories
+target
+.settings
+
+# Trash
+.classpath
+.project
+*.iml
+
 # Compiled class file
 *.class
 
